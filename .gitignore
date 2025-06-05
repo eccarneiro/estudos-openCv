@@ -32,3 +32,17 @@ dist/
 
 # Configurações locais
 *.env
+
+# Arquivos de vídeo
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Arquivos de imagem
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
